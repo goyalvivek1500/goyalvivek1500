@@ -4,8 +4,14 @@
   🚀 Frontend Developer • 🎨 CSS Lover • 💻 UI Designer
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;CSS+Animations+Lover;Building+Creative+UI;Future+Full+Stack+Dev&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;CSS+Animations+Lover;Building+Creative+UI;Future+Full+Stack+Dev&center=true&width=600&height=50">
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=goyalvivek1500&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -16,6 +22,16 @@
 🎨 Love working with CSS animations & modern UI  
 🌱 Currently learning JavaScript  
 🎯 Goal: Become a Professional Web Developer  
+
+---
+
+## 📄 Resume  
+
+<p align="center">
+  <a href="./Vivekgoyalresume1.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -40,11 +56,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyalvivek1500&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goyalvivek1500&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=goyalvivek1500" />
+  <img src="https://streak-stats.demolab.com/?user=goyalvivek1500&theme=tokyonight" />
 </p>
 
 ---
@@ -59,7 +75,9 @@
 
 ## 🌐 Connect With Me  
 
-📧 vivekgoyal1500@gmail.com
+<p align="center">
+  📧 vivekgoyal1500@gmail.com
+</p>
 
 ---
 
@@ -67,8 +85,4 @@
 
 <p align="center">
 ✨ Code • Design • Build • Repeat 🚀
-
-## 📄 Resume  
-
-[Download My Resume](./Vivekgoyalresume1.pdf)
 </p>
