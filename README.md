@@ -1,56 +1,61 @@
-# 👋 Hi, I'm Vivek Goyal  
-
-🎨 **Frontend Developer | UI Lover | CSS Enthusiast**  
-💻 Passionate about building clean & creative web interfaces  
+<h1 align="center">Hi 👋, I'm Vivek Goyal</h1>
+<h3 align="center">🎨 Frontend Developer | 💻 UI Designer | 🚀 Future Full Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me  
 
-✨ I love creating interactive UI using HTML & CSS  
-📚 Currently learning JavaScript  
-🎯 Goal: Become a Professional Web Developer  
-⚡ Fun fact: I enjoy designing animations with CSS  
+- 🎯 Passionate about building modern & responsive websites  
+- 🌱 Currently learning **JavaScript & Advanced CSS**  
+- 💡 Love creating **UI animations & interactive designs**  
+- ⚡ Goal: Become a **Professional Web Developer**  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack  
 
-💡 HTML5  
-🎨 CSS3  
-⚡ JavaScript (Learning)  
+💻 **Frontend:**  
+HTML | CSS | JavaScript  
+
+🧰 **Tools:**  
+Git | GitHub | VS Code  
 
 ---
 
 ## 🌟 Featured Projects  
 
-📁 CSS Projects Collection  
-🎬 Hover Effects & Animations  
-📱 Responsive Designs  
+🚀 **CSS Projects Collection**  
+🎨 Creative UI Components  
+📱 Responsive Web Designs  
 
 ---
 
 ## 📊 GitHub Stats  
 
-🔥 Consistent Learner  
-🚀 Building Projects Daily  
-💻 Improving Coding Skills  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goyalvivek1500&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=goyalvivek1500&theme=radical" />
+</p>
 
 ---
 
 ## 🎯 Current Focus  
 
-✔ Advanced CSS  
-✔ JavaScript  
-✔ Real-world Projects  
+✔ Building Real Projects  
+✔ Improving JavaScript Skills  
+✔ Learning Responsive Design  
 
 ---
 
-## 🙌 Connect With Me  
+## 🌐 Connect With Me  
 
 📧 Email: vivekgoyal1500@example.com  
 
 ---
 
-## 💖 Thanks for visiting my profile!  
-✨ Keep Learning | Keep Building 🚀
+## 💖 Fun Line  
+
+✨ "Code. Create. Repeat." 🚀
