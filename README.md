@@ -73,9 +73,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  📧  vivekgoyal1500@gmail.com
+  <a href="mailto:vivekgoyal1500@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ## 💖 Vibe  
