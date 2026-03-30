@@ -55,9 +55,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyalvivek1500&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=goyalvivek1500&theme=tokyonight" />
