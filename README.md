@@ -1,55 +1,70 @@
-<h1 align="center">👋 Hi, I'm Vivek Goyal</h1>
+<h1 align="center">Hey 👋, I'm Vivek Goyal</h1>
 
 <p align="center">
-🎨 Frontend Developer • 💻 UI Designer • 🚀 Future Full Stack Dev
+  🚀 Frontend Developer • 🎨 CSS Lover • 💻 UI Designer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;CSS+Animations+Lover;Building+Creative+UI;Future+Full+Stack+Dev&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-✨ I build clean & responsive web designs  
-🎯 Focused on improving my frontend skills  
+✨ Passionate about creating beautiful & responsive websites  
+🎨 Love working with CSS animations & modern UI  
 🌱 Currently learning JavaScript  
-⚡ Love CSS animations & UI creativity  
+🎯 Goal: Become a Professional Web Developer  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-✔ HTML5  
-✔ CSS3  
-✔ JavaScript (Learning)  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## 🌟 Projects  
+## 🌟 Featured Work  
 
-📁 CSS Projects Collection  
-🎨 UI Components & Animations  
-📱 Responsive Websites  
+🚀 CSS Projects Collection  
+🎬 Interactive UI Components  
+📱 Responsive Web Designs  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goyalvivek1500&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=goyalvivek1500" />
+</p>
 
 ---
 
 ## 🎯 Current Focus  
 
 ✔ Advanced CSS  
-✔ Real Projects  
-✔ Better UI/UX  
+✔ JavaScript  
+✔ Real World Projects  
 
 ---
 
-## 💡 Developer Vibe  
+## 🌐 Connect With Me  
 
-> "Design is not just how it looks, it's how it works." 🚀  
-
----
-
-## 📬 Contact  
-
-📧 vivekgoyal1500@gmail.com 
+📧 vivekgoyal1500@gmail.com
 
 ---
 
-## 💖 Thanks for visiting!  
-⭐ Don't forget to check my projects!
+## 💖 Vibe  
+
+<p align="center">
+✨ Code • Design • Build • Repeat 🚀
+</p>
