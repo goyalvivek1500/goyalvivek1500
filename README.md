@@ -67,4 +67,8 @@
 
 <p align="center">
 ✨ Code • Design • Build • Repeat 🚀
+
+## 📄 Resume  
+
+[Download My Resume](./Vivekgoyalresume1.pdf)
 </p>
