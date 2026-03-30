@@ -76,7 +76,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  📧 vivekgoyal1500@gmail.com
+  📧  vivekgoyal1500@gmail.com
 </p>
 
 ---
